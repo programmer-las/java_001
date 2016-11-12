@@ -1,4 +1,4 @@
-public class zavd4a {
+public class zavd4 {
 	public static void main(String[] args) {		
 		int [][] a = new int[][] {
 			{ 10, 5, 3, 20, 1 },
